@@ -8,7 +8,6 @@
 ## 🚀 Overview
 By processing portraits via live camera or gallery upload, the app uses a **deterministic hashing algorithm** to generate a unique aura color and a personalized "Daily Mantra" and with Spotify API app gives a music for your "Daily Mantra".
 
-##Example of Daily Mantra :
 ![image alt](https://github.com/ErdemBuyukcinar/Aura-Finder/blob/3915ca01e08e3a450ee985239075e72c17dbdb02/daily.png)
 
 
